@@ -1,5 +1,5 @@
-🎉 Campus Event Calendar & RSVP
-A React-based event listing platform for Newton School of Technology that helps students stay updated with upcoming events, workshops, competitions, club meetings, and social drives.
+<h1>🎉 Campus Event Calendar & RSVP
+A React-based event listing platform for Newton School of Technology that helps students stay updated with upcoming events, workshops, competitions, club meetings, and social drives.</h1>
 
 ✨ Features
 🗓️ View upcoming and past events
